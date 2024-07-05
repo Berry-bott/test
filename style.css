@@ -1,0 +1,19 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.toggle{
+    width: 100%;
+    height: 100vh;
+    background-color: #fff;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+}
+.buton{
+    background-color: #dddddd;
+}
+
+
+/* u - untracked  */
